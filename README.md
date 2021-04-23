@@ -1,6 +1,6 @@
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][https://github.com/Akhilesh1621/Robo-Freinds]][forks-url]
+[![Forks][forks-shield]][https://github.com/Akhilesh1621/Robo-Freinds]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
