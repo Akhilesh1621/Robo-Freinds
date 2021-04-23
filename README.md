@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://live.staticflickr.com/65535/51134171933_cd29a81ce0_k.jpg)
+[![Robots][public\screen.JPG]](https://live.staticflickr.com/65535/51134171933_cd29a81ce0_k.jpg)
 
 <!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:** -->
