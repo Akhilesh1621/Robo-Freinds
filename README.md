@@ -1,10 +1,10 @@
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][https://github.com/Akhilesh1621/Robo-Freinds]
-[![Stargazers][stars-shield]][https://github.com/Akhilesh1621/Robo-Freindsl]
+[![Forks][https://github.com/Akhilesh1621/Robo-Freinds]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://choosealicense.com/licenses/mit/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
