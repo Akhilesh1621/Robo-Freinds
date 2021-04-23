@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://live.staticflickr.com/65535/51134171933_cd29a81ce0_k.jpg)
 
 <!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:** -->
@@ -144,7 +144,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Akhiesh20](https://twitter.com/Akhiesh20) - akhileshdevop@gmail.com
+AKhilesh Rajan - [@akkkkkkhilesh](https://www.instagram.com/akkkkkkhilesh/?hl=en) - akhileshdevop@gmail.com
 
 Project Link: [https://github.com/Akhilesh1621/Robo-Freinds.git](https://github.com/Akhilesh1621/Robo-Freinds.git)
 
