@@ -23,7 +23,7 @@
     <!-- <a href="https://github.com/Akhilesh1621/Robo-Freinds"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://akhilesh1621.github.io/Robo-Freinds/">View Demo</a>
     ·
     <!-- <a href="#">Report Bug</a> -->
     ·
